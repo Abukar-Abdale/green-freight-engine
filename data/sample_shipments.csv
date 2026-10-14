@@ -1,0 +1,6 @@
+shipment_id,origin,destination,weight_tons,distance_km,mode
+SH001,Gothenburg,Jönköping,12.5,145,road_diesel_heavy
+SH002,Hamburg,Jönköping,24.0,650,road_diesel_heavy
+SH003,Shanghai,Gothenburg,18.0,18500,ocean_container
+SH004,Frankfurt,Stockholm,5.0,1200,air_freight_cargo
+SH005,Malmö,Sundsvall,15.0,850,road_diesel_heavy
